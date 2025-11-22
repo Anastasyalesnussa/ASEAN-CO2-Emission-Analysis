@@ -4,6 +4,7 @@
 This project analyzes the trends and disparities in **CO₂ emissions per capita across ASEAN countries**, using open data from [Our World in Data](https://ourworldindata.org/).  
 The main goal is to understand how emission patterns have evolved over time and what insights can be drawn in the context of **energy transition and decarbonization** efforts in Southeast Asia.
 
+Interactive Streamlit dashboard can be found [here]([https://ourworldindata.org/](https://asean-co2-emission-dashboard.streamlit.app/))
 <img width="1581" height="1001" alt="ASEAN_emission" src="https://github.com/user-attachments/assets/cc2e2a88-a81b-4628-ac82-8c9cc91472f8" />
 
 ---
