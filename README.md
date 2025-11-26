@@ -1,4 +1,4 @@
-# CO₂ Emission per Capita in ASEAN.
+# CO₂ emission per capita in ASEAN.
 
 ## Overview  
 This project analyzes the trends and disparities in **CO₂ emissions per capita across ASEAN countries**, using open data from [Our World in Data](https://ourworldindata.org/).  
