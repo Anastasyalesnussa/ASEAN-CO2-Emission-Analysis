@@ -258,7 +258,7 @@ fig.update_layout(
 st.subheader("CO₂ Emission Forecast Comparison")
 st.plotly_chart(fig, use_container_width=True)
 
-# Optional expandable forecast data
+# Expandable forecast data
 with st.expander("Show Forecast Data Table"):
     st.dataframe(compare_df.style.format({
         "poly_prediction": "{:.2f}",
@@ -267,4 +267,5 @@ with st.expander("Show Forecast Data Table"):
         "yhat_upper": "{:.2f}",
         "co2_per_capita": "{:.2f}"
     }))
+
 
